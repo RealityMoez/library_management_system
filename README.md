@@ -21,7 +21,3 @@ This is a C++ based Library Management System implemented as a Visual Studio Pro
 2. **Create User Account**: Choose option 1 after admin login to create a new user account. Input the necessary details when prompted.
 3. **User Login**: After the account is created, the user can log in using their ID and password.
 4. **Access Menu**: After logging in, users can access the library catalog. They can choose to view all books, search for a specific book by title or production year, or buy a book (only available for staff accounts).
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
